@@ -1,0 +1,15 @@
+[
+{
+  "modid": "meowrpc",
+  "name": "MeowRPC",
+  "description": "Update your Discord status with a Rich Presence showing your Minecraft activity",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["dilysmcat", "Saddii"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
